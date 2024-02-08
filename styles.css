@@ -85,6 +85,10 @@ select {
     justify-content: center;
     padding: 20px;
     font-family: Trebuchet, sans-serif;
+    font-size: 12px;
+}
+
+.imageblock p {
     font-size: 15px;
     font-weight: bold;
 }
